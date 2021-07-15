@@ -1,0 +1,322 @@
+==============================
+Country Djibouti
+Continent Africa
+TwoLetterSymbol dj
+TotalCases 11621
+NewCases 0
+TotalDeaths 155
+TotalRecovered 11457
+==============================
+Country Lesotho
+Continent Africa
+TwoLetterSymbol ls
+TotalCases 12153
+NewCases 0
+TotalDeaths 338
+TotalRecovered 6601
+==============================
+Country Congo
+Continent Africa
+TwoLetterSymbol cg
+TotalCases 12790
+NewCases 0
+TotalDeaths 167
+TotalRecovered 11759
+==============================
+Country {Burkina Faso}
+Continent Africa
+TwoLetterSymbol bf
+TotalCases 13527
+NewCases 0
+TotalDeaths 169
+TotalRecovered 13333
+==============================
+Country Togo
+Continent Africa
+TwoLetterSymbol tg
+TotalCases 14377
+NewCases 0
+TotalDeaths 134
+TotalRecovered 13746
+==============================
+Country Mali
+Continent Africa
+TwoLetterSymbol ml
+TotalCases 14492
+NewCases 0
+TotalDeaths 528
+TotalRecovered 10908
+==============================
+Country Somalia
+Continent Africa
+TwoLetterSymbol so
+TotalCases 15076
+NewCases 0
+TotalDeaths 781
+TotalRecovered 7267
+==============================
+Country Seychelles
+Continent Africa
+TwoLetterSymbol sc
+TotalCases 17005
+NewCases 0
+TotalDeaths 77
+TotalRecovered 16072
+==============================
+Country Mayotte
+Continent Africa
+TwoLetterSymbol yt
+TotalCases 19450
+NewCases 0
+TotalDeaths 174
+TotalRecovered 2964
+==============================
+Country Eswatini
+Continent Africa
+TwoLetterSymbol sz
+TotalCases 20489
+NewCases 0
+TotalDeaths 696
+TotalRecovered 18557
+==============================
+Country Mauritania
+Continent Africa
+TwoLetterSymbol mr
+TotalCases 22049
+NewCases 0
+TotalDeaths 499
+TotalRecovered 20470
+==============================
+Country Guinea
+Continent Africa
+TwoLetterSymbol gn
+TotalCases 24252
+NewCases 0
+TotalDeaths 183
+TotalRecovered 23459
+==============================
+Country Gabon
+Continent Africa
+TwoLetterSymbol ga
+TotalCases 25245
+NewCases 0
+TotalDeaths 162
+TotalRecovered 24964
+==============================
+Country {Cabo Verde}
+Continent Africa
+TwoLetterSymbol cv
+TotalCases 33127
+NewCases 0
+TotalDeaths 292
+TotalRecovered 32276
+==============================
+Country Réunion
+Continent Africa
+TwoLetterSymbol re
+TotalCases 33295
+NewCases 0
+TotalDeaths 256
+TotalRecovered 30781
+==============================
+Country Sudan
+Continent Africa
+TwoLetterSymbol sd
+TotalCases 36986
+NewCases 0
+TotalDeaths 2774
+TotalRecovered 30756
+==============================
+Country Angola
+Continent Africa
+TwoLetterSymbol ao
+TotalCases 40327
+NewCases 0
+TotalDeaths 946
+TotalRecovered 34584
+==============================
+Country Malawi
+Continent Africa
+TwoLetterSymbol mw
+TotalCases 40713
+NewCases 0
+TotalDeaths 1276
+TotalRecovered 34139
+==============================
+Country Madagascar
+Continent Africa
+TwoLetterSymbol mg
+TotalCases 42479
+NewCases 17
+TotalDeaths 934
+TotalRecovered 40862
+==============================
+Country DRC
+Continent Africa
+TwoLetterSymbol cd
+TotalCases 44909
+NewCases 0
+TotalDeaths 984
+TotalRecovered 28801
+==============================
+Country Senegal
+Continent Africa
+TwoLetterSymbol sn
+TotalCases 48270
+NewCases 674
+TotalDeaths 1209
+TotalRecovered 42843
+==============================
+Country {Ivory Coast}
+Continent Africa
+TwoLetterSymbol ci
+TotalCases 48959
+NewCases 0
+TotalDeaths 319
+TotalRecovered 48331
+==============================
+Country Rwanda
+Continent Africa
+TwoLetterSymbol rw
+TotalCases 50742
+NewCases 0
+TotalDeaths 607
+TotalRecovered 35582
+==============================
+Country Zimbabwe
+Continent Africa
+TwoLetterSymbol zw
+TotalCases 76381
+NewCases 0
+TotalDeaths 2332
+TotalRecovered 49053
+==============================
+Country Botswana
+Continent Africa
+TwoLetterSymbol bw
+TotalCases 80153
+NewCases 0
+TotalDeaths 1253
+TotalRecovered 69931
+==============================
+Country Cameroon
+Continent Africa
+TwoLetterSymbol cm
+TotalCases 80858
+NewCases 0
+TotalDeaths 1324
+TotalRecovered 78224
+==============================
+Country Uganda
+Continent Africa
+TwoLetterSymbol ug
+TotalCases 88674
+NewCases 0
+TotalDeaths 2203
+TotalRecovered 63140
+==============================
+Country Mozambique
+Continent Africa
+TwoLetterSymbol mz
+TotalCases 93429
+NewCases 0
+TotalDeaths 1033
+TotalRecovered 74392
+==============================
+Country Ghana
+Continent Africa
+TwoLetterSymbol gh
+TotalCases 97728
+NewCases 0
+TotalDeaths 802
+TotalRecovered 94612
+==============================
+Country Namibia
+Continent Africa
+TwoLetterSymbol na
+TotalCases 108785
+NewCases 0
+TotalDeaths 2240
+TotalRecovered 80421
+==============================
+Country Algeria
+Continent Africa
+TwoLetterSymbol dz
+TotalCases 148797
+NewCases 0
+TotalDeaths 3882
+TotalRecovered 103192
+==============================
+Country Nigeria
+Continent Africa
+TwoLetterSymbol ng
+TotalCases 168915
+NewCases 0
+TotalDeaths 2125
+TotalRecovered 164652
+==============================
+Country Zambia
+Continent Africa
+TwoLetterSymbol zm
+TotalCases 182129
+NewCases 1580
+TotalDeaths 2991
+TotalRecovered 166388
+==============================
+Country Kenya
+Continent Africa
+TwoLetterSymbol ke
+TotalCases 190183
+NewCases 0
+TotalDeaths 3737
+TotalRecovered 180624
+==============================
+Country Libya
+Continent Africa
+TwoLetterSymbol ly
+TotalCases 214568
+NewCases 2555
+TotalDeaths 3249
+TotalRecovered 182359
+==============================
+Country Ethiopia
+Continent Africa
+TwoLetterSymbol et
+TotalCases 277318
+NewCases 0
+TotalDeaths 4349
+TotalRecovered 262167
+==============================
+Country Egypt
+Continent Africa
+TwoLetterSymbol eg
+TotalCases 283409
+NewCases 0
+TotalDeaths 16418
+TotalRecovered 220530
+==============================
+Country Tunisia
+Continent Africa
+TwoLetterSymbol tn
+TotalCases 518609
+NewCases 0
+TotalDeaths 16845
+TotalRecovered 413155
+==============================
+Country Morocco
+Continent Africa
+TwoLetterSymbol ma
+TotalCases 547273
+NewCases 0
+TotalDeaths 9404
+TotalRecovered 527256
+==============================
+Country {South Africa}
+Continent Africa
+TwoLetterSymbol za
+TotalCases 2236805
+NewCases 0
+TotalDeaths 65595
+TotalRecovered 1970516
+==============================
+
