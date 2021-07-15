@@ -24,7 +24,7 @@ data = res.read()
 Info = data.decode("utf-8")
 
 json = json.loads(Info)
-n = 10
+n = 40
 frametop=Frame(root)
 framebot=Frame(root)
 frametop.pack()
